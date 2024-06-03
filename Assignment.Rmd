@@ -30,4 +30,30 @@ encounters = read.csv("encountersUG.csv")
 conditions = read.csv("conditionsUG.csv")
 ```
 
+# 1. Write the code to analyse the distribution of COVID patients (confirmed or suspected) across counties. Write the code to investigate the distribution of the patients across age groups (e.g., 0-18, 19-35, 36-50, 51+). Visualise both the findings using the histogram. Explain your findings.
+
+```{r}
+
+```
+
+# 2. Filter those patients in the dataset that have contracted COVID-19 or Suspected COVID-19; ; what are the top 10 most common conditions (symptoms) related to the patients? Do the conditions differ between genders? Provide a table to rank the top 10 conditions for male and female patients separately. Elaborate on the findings.
+
+```{r}
+
+```
+
+# 3. Write the code to analyse the factors that might influence the hospitalisation rate (ambulatory, emergency, inpatient, urgent care) for the COVID patient (confirmed or suspected) in the dataset. Any factors in the dataset, such as age, gender, zip code, marital status, race and county, can be considered. Pick 2 of the factors and explain if there is a trend that explains the variation.
+
+```{r}
+
+```
+
+# 4. Write the code to investigate the characteristics of patients (confirmed or suspected) who recover from COVID-19 compared to those who don’t. Consider factors such as demographics (age, gender, zip code), symptoms, and timeline of diagnosis and recovery. Analyse how these factors impact the recovery outcome.
+
+```{r}
+
+```
+
+
+
 
